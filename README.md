@@ -1,4 +1,4 @@
-# Sublime-Text-3.0-Prefs
+# My Sublime Text 3.0 Preferences
 ```
 {
 	"color_scheme": "Packages/Dayle Rees Color Schemes/legacy/Patriot.tmTheme",
