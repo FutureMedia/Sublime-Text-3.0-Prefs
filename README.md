@@ -1,4 +1,5 @@
 # Sublime-Text-3.0-Prefs
+```
 {
 	"color_scheme": "Packages/Dayle Rees Color Schemes/legacy/Patriot.tmTheme",
 	"flatland_square_tabs": true,
@@ -20,3 +21,4 @@
 	"tabs_medium": true,
 	"theme": "predawn-DEV.sublime-theme"
 }
+```
